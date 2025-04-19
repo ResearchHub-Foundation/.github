@@ -30,6 +30,7 @@ Enjoy open publishing, collaborative peer reviews, and community-driven funding 
 - **Claim Authorship**: Verify your identity and claim authorship on your published work
 - **Peer Review**: Contribute your expertise by reviewing preprints and get rewarded
 - **Fund Research**: Support new research aligned with your academic interests
+- **ResearchHub Journal** : Publish your latest result through ResearchHub
 
 ### For Developers
 - Check our open-source repositories
@@ -39,11 +40,7 @@ Enjoy open publishing, collaborative peer reviews, and community-driven funding 
 
 ## 💰 Funding Opportunities
 
-ResearchHub offers multiple research grants to bring your next big idea to life! Each grant recipient receives $5,000, and all fields are welcome to apply.
-
-- Start your funding journey on ResearchHub
-- Explore grant opportunities in the Decentralized Science (DeSci) ecosystem
-- Target funding that aligns with your academic interests
+ResearchHub Community offers multiple research grants crowdfunding opportunities to bring your next big idea to life! 
 
 ## 🔗 Unlock Additional Access & Voting Rights
 
